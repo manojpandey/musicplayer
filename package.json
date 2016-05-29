@@ -1,0 +1,23 @@
+{
+  "name": "musicplayer",
+  "version": "1.0.0",
+  "description": "A simple musicplayer built using Electron and React",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manojpandey/musicplayer.git"
+  },
+  "keywords": [ "music", "player", "electron", "react"],
+  "author": "manojpandey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manojpandey/musicplayer/issues"
+  },
+  "homepage": "https://github.com/manojpandey/musicplayer#readme",
+  "devDependencies": {
+    "electron-prebuilt": "^1.2.0"
+  }
+}
